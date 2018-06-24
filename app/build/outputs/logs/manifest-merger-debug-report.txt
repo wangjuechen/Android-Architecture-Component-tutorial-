@@ -1,0 +1,259 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-72:12
+INJECTED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-72:12
+INJECTED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-72:12
+INJECTED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-72:12
+MERGED from [com.android.databinding:adapters:3.1.3] /Users/jwang/.gradle/caches/transforms-1/files-1.1/adapters-3.1.3.aar/820e7a5b1fa26b077ba1282868555e09/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.1.3] /Users/jwang/.gradle/caches/transforms-1/files-1.1/library-3.1.3.aar/2e0648be71caa06fe834744a8858ac9b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:preference-v7:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/ef1d76810bf146319ae240209912c9fa/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e3dcba3e7ec9b4effc12ed91a87804b6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/64872647cb07bdc101afefd88af3818b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/jwang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/6d13cf76ef011703b323da859b9979ff/AndroidManifest.xml:2:1-11:12
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/ca9c08b746e678657b1b01c5bd06231c/AndroidManifest.xml:17:1-42:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/jwang/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/0a6eb5b14751fbd18affc36e11424ff5/AndroidManifest.xml:17:1-30:12
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/jwang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/59e41fd8b2d8feb3a55c2989a0721ec6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/24d08404bc2cacec2d1f6429e6de5069/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/8b025332b7009bb0f92d70db040cdc43/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f77e501482ce8fc18b218e73aebc9d57/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/b827e9c932b2eccd635855ef62e85f1b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/0080f0c293906a8bfcb4a49c419df93d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/3089139740f5ea40e89a10ca0bd59b82/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4adc30123d1b2ec5a7b0a6a5391525ce/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/60312cca80d1f3c129508fa0975e7d2c/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/jwang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/30a7838662caefa2b521738a3182ad44/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/jwang/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/44e49185b8fe9cc9103ffc046ad41893/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/jwang/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/cfe3cb2c7953669438d595fbd980b045/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/jwang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c8b33bba18daf52336ed9d7ee3d273ba/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/jwang/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/719b69bcbde39d6eedb6ffbfd5280800/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/jwang/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.1.aar/4eba930d90a7851f6a2e1a30bd1d3ae5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.1] /Users/jwang/.gradle/caches/transforms-1/files-1.1/db-1.1.1.aar/257ba2da32371a6e11805510f5b9f629/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-72:12
+INJECTED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-72:12
+INJECTED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-72:12
+	package
+		ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:19:5-43
+		INJECTED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-72:12
+		INJECTED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-72:12
+		INJECTED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:18:5-63
+uses-permission#android.permission.INTERNET
+ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:22:5-66
+	android:name
+		ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:22:22-64
+application
+ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:24:5-71:19
+MERGED from [com.android.support:preference-v7:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/ef1d76810bf146319ae240209912c9fa/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:preference-v7:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/ef1d76810bf146319ae240209912c9fa/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e3dcba3e7ec9b4effc12ed91a87804b6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e3dcba3e7ec9b4effc12ed91a87804b6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/64872647cb07bdc101afefd88af3818b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/64872647cb07bdc101afefd88af3818b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/jwang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/6d13cf76ef011703b323da859b9979ff/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/jwang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/6d13cf76ef011703b323da859b9979ff/AndroidManifest.xml:9:5-20
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/ca9c08b746e678657b1b01c5bd06231c/AndroidManifest.xml:26:5-40:19
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/ca9c08b746e678657b1b01c5bd06231c/AndroidManifest.xml:26:5-40:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/jwang/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/0a6eb5b14751fbd18affc36e11424ff5/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/jwang/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/0a6eb5b14751fbd18affc36e11424ff5/AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/24d08404bc2cacec2d1f6429e6de5069/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/24d08404bc2cacec2d1f6429e6de5069/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/8b025332b7009bb0f92d70db040cdc43/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/8b025332b7009bb0f92d70db040cdc43/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f77e501482ce8fc18b218e73aebc9d57/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f77e501482ce8fc18b218e73aebc9d57/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/b827e9c932b2eccd635855ef62e85f1b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/b827e9c932b2eccd635855ef62e85f1b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/0080f0c293906a8bfcb4a49c419df93d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/0080f0c293906a8bfcb4a49c419df93d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/3089139740f5ea40e89a10ca0bd59b82/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/3089139740f5ea40e89a10ca0bd59b82/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4adc30123d1b2ec5a7b0a6a5391525ce/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4adc30123d1b2ec5a7b0a6a5391525ce/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/60312cca80d1f3c129508fa0975e7d2c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/60312cca80d1f3c129508fa0975e7d2c/AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:28:9-35
+	android:label
+		ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:26:9-43
+	android:allowBackup
+		ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:25:9-35
+	android:theme
+		ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:29:9-40
+activity#com.example.android.sunshine.ui.list.MainActivity
+ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:32:9-41:20
+	android:label
+		ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:34:13-45
+	android:launchMode
+		ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:35:13-43
+	android:theme
+		ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:36:13-53
+	android:name
+		ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:33:13-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:37:13-40:29
+action#android.intent.action.MAIN
+ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:38:17-68
+	android:name
+		ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:39:17-76
+	android:name
+		ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:39:27-74
+activity#com.example.android.sunshine.ui.detail.DetailActivity
+ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:44:9-54:20
+	android:parentActivityName
+		ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:47:13-63
+	android:label
+		ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:46:13-58
+	android:theme
+		ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:48:13-44
+	android:name
+		ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:45:13-53
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:50:13-52:56
+	android:value
+		ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:52:17-54
+	android:name
+		ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:51:17-63
+service#com.example.android.sunshine.data.network.SunshineSyncIntentService
+ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:58:9-60:40
+	android:exported
+		ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:60:13-37
+	android:name
+		ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:59:13-67
+service#com.example.android.sunshine.data.network.SunshineFirebaseJobService
+ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:63:9-69:19
+	android:exported
+		ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:65:13-37
+	android:name
+		ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:64:13-68
+intent-filter#action:name:com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:66:13-68:29
+action#com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:67:17-83
+	android:name
+		ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:67:25-81
+uses-sdk
+INJECTED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.1.3] /Users/jwang/.gradle/caches/transforms-1/files-1.1/adapters-3.1.3.aar/820e7a5b1fa26b077ba1282868555e09/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.1.3] /Users/jwang/.gradle/caches/transforms-1/files-1.1/adapters-3.1.3.aar/820e7a5b1fa26b077ba1282868555e09/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.3] /Users/jwang/.gradle/caches/transforms-1/files-1.1/library-3.1.3.aar/2e0648be71caa06fe834744a8858ac9b/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.3] /Users/jwang/.gradle/caches/transforms-1/files-1.1/library-3.1.3.aar/2e0648be71caa06fe834744a8858ac9b/AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:preference-v7:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/ef1d76810bf146319ae240209912c9fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/ef1d76810bf146319ae240209912c9fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e3dcba3e7ec9b4effc12ed91a87804b6/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e3dcba3e7ec9b4effc12ed91a87804b6/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/64872647cb07bdc101afefd88af3818b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/64872647cb07bdc101afefd88af3818b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/jwang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/6d13cf76ef011703b323da859b9979ff/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/jwang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/6d13cf76ef011703b323da859b9979ff/AndroidManifest.xml:5:5-7:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/ca9c08b746e678657b1b01c5bd06231c/AndroidManifest.xml:22:5-24:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/ca9c08b746e678657b1b01c5bd06231c/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/jwang/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/0a6eb5b14751fbd18affc36e11424ff5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/jwang/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/0a6eb5b14751fbd18affc36e11424ff5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/jwang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/59e41fd8b2d8feb3a55c2989a0721ec6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/jwang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/59e41fd8b2d8feb3a55c2989a0721ec6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/24d08404bc2cacec2d1f6429e6de5069/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/24d08404bc2cacec2d1f6429e6de5069/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/8b025332b7009bb0f92d70db040cdc43/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/8b025332b7009bb0f92d70db040cdc43/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f77e501482ce8fc18b218e73aebc9d57/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f77e501482ce8fc18b218e73aebc9d57/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/b827e9c932b2eccd635855ef62e85f1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/b827e9c932b2eccd635855ef62e85f1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/0080f0c293906a8bfcb4a49c419df93d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/0080f0c293906a8bfcb4a49c419df93d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/3089139740f5ea40e89a10ca0bd59b82/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/3089139740f5ea40e89a10ca0bd59b82/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4adc30123d1b2ec5a7b0a6a5391525ce/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4adc30123d1b2ec5a7b0a6a5391525ce/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/60312cca80d1f3c129508fa0975e7d2c/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/60312cca80d1f3c129508fa0975e7d2c/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/jwang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/30a7838662caefa2b521738a3182ad44/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/jwang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/30a7838662caefa2b521738a3182ad44/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/jwang/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/44e49185b8fe9cc9103ffc046ad41893/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/jwang/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/44e49185b8fe9cc9103ffc046ad41893/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/jwang/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/cfe3cb2c7953669438d595fbd980b045/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/jwang/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/cfe3cb2c7953669438d595fbd980b045/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/jwang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c8b33bba18daf52336ed9d7ee3d273ba/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/jwang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c8b33bba18daf52336ed9d7ee3d273ba/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/jwang/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/719b69bcbde39d6eedb6ffbfd5280800/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/jwang/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/719b69bcbde39d6eedb6ffbfd5280800/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/jwang/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.1.aar/4eba930d90a7851f6a2e1a30bd1d3ae5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/jwang/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.1.aar/4eba930d90a7851f6a2e1a30bd1d3ae5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] /Users/jwang/.gradle/caches/transforms-1/files-1.1/db-1.1.1.aar/257ba2da32371a6e11805510f5b9f629/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] /Users/jwang/.gradle/caches/transforms-1/files-1.1/db-1.1.1.aar/257ba2da32371a6e11805510f5b9f629/AndroidManifest.xml:20:5-44
+INJECTED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e3dcba3e7ec9b4effc12ed91a87804b6/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jwang/Desktop/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:preference-v7:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/ef1d76810bf146319ae240209912c9fa/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e3dcba3e7ec9b4effc12ed91a87804b6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e3dcba3e7ec9b4effc12ed91a87804b6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/64872647cb07bdc101afefd88af3818b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/64872647cb07bdc101afefd88af3818b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/24d08404bc2cacec2d1f6429e6de5069/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/24d08404bc2cacec2d1f6429e6de5069/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/8b025332b7009bb0f92d70db040cdc43/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/8b025332b7009bb0f92d70db040cdc43/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f77e501482ce8fc18b218e73aebc9d57/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f77e501482ce8fc18b218e73aebc9d57/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/b827e9c932b2eccd635855ef62e85f1b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/b827e9c932b2eccd635855ef62e85f1b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/0080f0c293906a8bfcb4a49c419df93d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/0080f0c293906a8bfcb4a49c419df93d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/3089139740f5ea40e89a10ca0bd59b82/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/3089139740f5ea40e89a10ca0bd59b82/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4adc30123d1b2ec5a7b0a6a5391525ce/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4adc30123d1b2ec5a7b0a6a5391525ce/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/60312cca80d1f3c129508fa0975e7d2c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/60312cca80d1f3c129508fa0975e7d2c/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:preference-v7:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/ef1d76810bf146319ae240209912c9fa/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:preference-v7:26.1.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/ef1d76810bf146319ae240209912c9fa/AndroidManifest.xml:24:13-51
+service#com.firebase.jobdispatcher.GooglePlayReceiver
+ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/ca9c08b746e678657b1b01c5bd06231c/AndroidManifest.xml:32:9-39:19
+	android:exported
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/ca9c08b746e678657b1b01c5bd06231c/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/ca9c08b746e678657b1b01c5bd06231c/AndroidManifest.xml:35:13-93
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/ca9c08b746e678657b1b01c5bd06231c/AndroidManifest.xml:33:13-73
+intent-filter#action:name:com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/ca9c08b746e678657b1b01c5bd06231c/AndroidManifest.xml:36:13-38:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/ca9c08b746e678657b1b01c5bd06231c/AndroidManifest.xml:37:17-87
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/jwang/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/ca9c08b746e678657b1b01c5bd06231c/AndroidManifest.xml:37:25-84
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/jwang/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/0a6eb5b14751fbd18affc36e11424ff5/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/jwang/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/0a6eb5b14751fbd18affc36e11424ff5/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/jwang/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/0a6eb5b14751fbd18affc36e11424ff5/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/jwang/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/0a6eb5b14751fbd18affc36e11424ff5/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/jwang/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/0a6eb5b14751fbd18affc36e11424ff5/AndroidManifest.xml:24:13-83
